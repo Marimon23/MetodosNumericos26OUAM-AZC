@@ -1,5 +1,5 @@
 <details>
-<summary><b>🇺🇸 Show English Version / Mostrar versión en inglés</b></summary>
+<summary><b>Version en Ingles</b></summary>
 
 *Numerical Methods* — UEA: 1151039
 
@@ -56,7 +56,7 @@ The versions of these tools must be obtained directly from the container, as ind
 <br>
 
 <details>
-<summary><b>🇲🇽 Mostrar versión en español / Show Spanish Version</b></summary>
+<summary><b>Version en español</b></summary>
 
 *Métodos Numéricos* — UEA: 1151039
 
