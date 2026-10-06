@@ -1,7 +1,7 @@
 <details>
 <summary><b>🇺🇸 Show English Version / Mostrar versión en inglés</b></summary>
 
-*Numerical Methods* — Course Code: 1151039
+*Numerical Methods* — UEA: 1151039
 
 ### Term: 26O
 ### Degree: Mechanical Engineering  
@@ -58,7 +58,7 @@ The versions of these tools must be obtained directly from the container, as ind
 <details>
 <summary><b>🇲🇽 Mostrar versión en español / Show Spanish Version</b></summary>
 
-*Métodos Numéricos* — Clave de Asignatura: 1151039
+*Métodos Numéricos* — UEA: 1151039
 
 ### Trimestre: 26O
 ### Licenciatura: Ingeniería Mecánica  
